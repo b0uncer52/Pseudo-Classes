@@ -1,0 +1,15 @@
+li {
+	list-style-type:  none;
+	display: inline;
+}
+span {
+	display: block;
+	border: 1px solid blue;
+	margin: 25px 25px;
+}
+.n-child section:nth-of-type(2) {
+	border: 1px solid purple;
+}
+.n-child section:nth-of-type(4) {
+	border: 1px solid purple;
+}
